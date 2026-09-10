@@ -15,6 +15,14 @@ pip install shapely==1.6.4.post2
 pip install numpy==2.0.2
 ```
 
+
+## Quick Start
+```
+Place the downloaded sheep mounting behavior dataset or your own dataset in the ultralytics-main-v11/data;
+Configure the relevant file paths required for running the YOLO model. Please refer to https://github.com/ultralytics/ultralytics;
+Train the detection model: run ultralytics/models/yolo/detect/our_train.py.
+
+
 ## Dataset
 ```
 The dataset is a sheep mounting behavior dataset collected from a commercial farm in Zhejiang Province. It can be obtained from ultralytics-main-v11\data\images. As the related funded project is still ongoing and due to the commercial confidentiality requirements of the farm, the complete dataset remains protected. At this stage, only a subset of the dataset has been released. Furthermore, the dataset contains multiple imaging scenarios. Non-commercial academic researchers who require access to the complete dataset may contact the corresponding author.
@@ -24,3 +32,5 @@ The dataset is a sheep mounting behavior dataset collected from a commercial far
 
 ## Weigh 
 The best.pt and last.pt weights obtained after training on this dataset are provided.
+
+
