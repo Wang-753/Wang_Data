@@ -13,7 +13,6 @@ The best.pt and last.pt weights obtained after training on this dataset are prov
 # HSM-YOLO: Sheep Mounting Behavior Detection
 
 ## Environment
-
 ```bash
 conda create -n pytorch python=3.7
 conda activate pytorch
@@ -27,6 +26,7 @@ pip install wget yacs
 pip install shapely==1.6.4.post2
 pip install numpy==2.0.2
 
-# **Dataset**
+## Dataset
+
 The dataset was collected from a commercial farm in Hangzhou. It can be obtained from ultralytics-main-v11\data\images. As the related project is still ongoing, the complete dataset remains protected. At this stage, only a subset of the dataset has been released.
 
