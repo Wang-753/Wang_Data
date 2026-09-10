@@ -1,4 +1,4 @@
-# HSM-YOLO: Sheep Mounting Behavior Detection
+# HSM-YOLO: Hu Sheep Mounting Behavior Detection
 
 ## Environment
 ```bash
