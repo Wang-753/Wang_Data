@@ -1,14 +1,3 @@
-
-
-####Dataset 
-The dataset was collected from a commercial farm in Hangzhou. It can be obtained from ultralytics-main-v11\data\images. As the related funded project is still ongoing and due to the commercial confidentiality requirements of the farm, the complete dataset remains protected. At this stage, only a subset of the dataset has been released.
-
-
-
-
-
-
-
 # HSM-YOLO: Sheep Mounting Behavior Detection
 
 ## Environment
