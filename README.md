@@ -17,7 +17,7 @@ pip install numpy==2.0.2
 
 ## Dataset
 ```
-The dataset was collected from a commercial farm in Hangzhou. It can be obtained from ultralytics-main-v11\data\images. As the related funded project is still ongoing and due to the commercial confidentiality requirements of the farm, the complete dataset remains protected. At this stage, only a subset of the dataset has been released.
+The dataset is a sheep mounting behavior dataset collected from a commercial farm in Zhejiang Province. It can be obtained from ultralytics-main-v11\data\images. As the related funded project is still ongoing and due to the commercial confidentiality requirements of the farm, the complete dataset remains protected. At this stage, only a subset of the dataset has been released. Furthermore, the dataset contains multiple imaging scenarios. Non-commercial academic researchers who require access to the complete dataset may contact the corresponding author.
 
 
 ```
