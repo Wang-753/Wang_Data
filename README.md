@@ -21,7 +21,7 @@ pip install numpy==2.0.2
 Place the downloaded sheep mounting behavior dataset or your own dataset in the ultralytics-main-v11/data;
 Configure the relevant file paths required for running the YOLO model. Please refer to https://github.com/ultralytics/ultralytics;
 Train the detection model: run ultralytics/models/yolo/detect/our_train.py.
-
+```
 
 ## Dataset
 ```
