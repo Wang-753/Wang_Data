@@ -1,0 +1,9 @@
+train: D:/yolo/ultralytics-main-v11/data/train.txt
+val: D:/yolo/ultralytics-main-v11/data/val.txt
+test: D:/yolo/ultralytics-main-v11/data/test.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ['Smounting', 'mounted']
