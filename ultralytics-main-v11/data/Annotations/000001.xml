@@ -1,0 +1,19 @@
+<Annotations>
+  <folder>images</folder>
+  <filename>000001.jpg</filename>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Nmounting</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>762</xmin>
+      <ymin>562</ymin>
+      <xmax>956</xmax>
+      <ymax>1137</ymax>
+    </bndbox>
+  </object>
+</Annotations>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>002678.jpg</filename>
+	<path>D:\yolo\ultralytics-main - 2\data\images\002678.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smounting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>696</ymin>
+			<xmax>1119</xmax>
+			<ymax>1137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mounted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>884</ymin>
+			<xmax>942</xmax>
+			<ymax>1131</ymax>
+		</bndbox>
+	</object>
+</annotation>
