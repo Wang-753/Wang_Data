@@ -1,0 +1,19 @@
+<Annotations>
+  <folder>images</folder>
+  <filename>006376.jpg</filename>
+  <size>
+    <width>2688</width>
+    <height>1520</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Smounting</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>1020</ymin>
+      <xmax>787</xmax>
+      <ymax>1507</ymax>
+    </bndbox>
+  </object>
+</Annotations>

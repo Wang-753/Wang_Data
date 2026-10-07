@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images-TR-2</folder>
+	<filename>004796.jpg</filename>
+	<path>D:\yolo\ultralytics-main - 2\output\images-TR-2\004796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smounting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymin>2</ymin>
+			<xmax>1968</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>
